@@ -4,6 +4,10 @@ Google collab: https://colab.research.google.com/drive/1oFMkUPCesMIVNmcwa8iRfWrZ
 
 <br><br>
 
+# Projet
+
+![](preview.png)
+
 ### Contexte
 
 L'entreprise SellBetter avait un client en 2023 et a réalisé différentes stratégies pour augmenter les ventes de son produit ABC. Les achats du produit ABC ne peuvent se faire que via le site du client à un prix unique de 80€.

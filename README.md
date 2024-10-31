@@ -2,7 +2,7 @@
 
 Google collab: https://colab.research.google.com/drive/1oFMkUPCesMIVNmcwa8iRfWrZzWQBoF_l?usp=sharing
 
--> "Copy to drive"
+mail: joseph.barbierdarnal@gmail.com
 
 <br><br>
 
